@@ -1,0 +1,2 @@
+# ROG-STRIX-Z370-E-GAMING-Hackintosh
+10.15.2

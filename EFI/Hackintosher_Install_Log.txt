@@ -1,0 +1,17 @@
+
+Installer version: v2.5k r5102 EFI bootloader
+======================================================
+
+Created @ hackintosher.com 
+
+Updated to Catalina 10.15.2 Build 19C57
+
+======================================================
+=================== Hackintosher.com =================
+======================================================
+
+https://hackintosher.com/guides/guide-to-fresh-installing-macos-catalina-on-a-hackintosh/
+
+https://hackintosher.com/guides/updating-hackintosh-catalina-10-15/
+
+https://hackintosher.com/guides/hackintosh-catalina-10-15-2-update-guide/
